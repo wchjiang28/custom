@@ -1,5 +1,4 @@
 linux.do
-+.termius.com
-+.apple.com
-+.icloud.com
-*.microsoft.com
+*.termius.com
+*.apple.com
+*.icloud.com
