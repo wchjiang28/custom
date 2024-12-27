@@ -1,4 +1,7 @@
-*.linux.do
++.linux.do
++.termius.com
 *.termius.com
++.apple.com
 *.apple.com
++.icloud.com
 *.icloud.com
